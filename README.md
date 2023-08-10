@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, it's a pleasure to have you here. You can explore all these codes<br>and ideas I create. Hopefully, it's not the last time you see<br>my name <3<br><br>👋 Well, I'm @starykt (nickname based on the infinity skye that I love so much).<br>👀 I’m interested in being one of those look-alike professionals.<br>👩‍💻 I'm graduating as a developer, but my heart beats for design and games.<br>🌱 I'm currently learning C#, Ruby on Rails and PHP (as well as game-related concepts such as Unreal Ungine 5 and 3DS Max).
+Hello everyone, it's a pleasure to have you here. You can explore all these codes<br>and ideas I create. Hopefully, it's not the last time you see<br>my name <3<br><br>👋 Well, I'm @starykt (nickname based on the infinity skye that I love so much).<br>👀 I’m interested in being one of those look-alike professionals.<br>👩‍💻 I'm graduating as a developer, but my heart beats for design and games.<br>🌱 I'm currently learning Ruby on Rails and PHP (as well as game-related concepts such as Unreal Ungine 5 and 3DS Max).
 
 
 ## 🌐 Socials:
