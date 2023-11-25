@@ -10,9 +10,6 @@ Hello everyone, it's a pleasure to have you here. You can explore all these code
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=starykt&theme=radical&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=starykt&icon=5&color=5)](https://visitcount.itsvg.in)
 
